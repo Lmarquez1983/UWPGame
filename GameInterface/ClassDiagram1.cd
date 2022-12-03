@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameLibrary.GamePiece">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GameInterface.MainPage">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwBgEAAQAAACACAAAD5AAEAEOIAAAABgJAAAQAAEOA=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
